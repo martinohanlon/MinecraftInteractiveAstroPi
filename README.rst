@@ -4,7 +4,7 @@ SpaceCRAFT - Minecraft Interactive Astro Pi
 
 The Minecraft Interactive Astro Pi, is part of SpaceCRAFT, a winning entry in the AstroPi competition.
 
-SpaceCRAFT was conceived by Hannah Belshaw, from Cumnor House Girl’s School, created by Martin O'Hanlon, `<Stuff about="code" />`_.
+SpaceCRAFT was conceived by Hannah Belshaw, from Cumnor House Girl’s School, created by Martin O'Hanlon, `Stuff about="code"`_.
 
 Pre-requisites
 ==============
@@ -14,14 +14,18 @@ An AstroPi SENSE HAT has been installed.
 Installation
 ============
 
-cd ~
-git clone https://github.com/martinohanlon/MinecraftInteractiveAstroPi.git
+To install open a terminal and use the following commands::
+
+    cd ~
+    git clone https://github.com/martinohanlon/MinecraftInteractiveAstroPi.git
 
 Usage
 =====
 
-cd ~/MinecraftInteractiveAstroPi
-sudo python mcinteractiveastropi.py
+To run open a terminal and use the following commands::
+
+    cd ~/MinecraftInteractiveAstroPi
+    sudo python mcinteractiveastropi.py
 
 Contributors
 ============

@@ -32,6 +32,11 @@ Contributors
 
 * `Martin O'Hanlon`_
 
+Change History
+==============
+0.1 - Initial release
+0.2 - Made python 3 compatible
+
 Open Source
 ===========
 

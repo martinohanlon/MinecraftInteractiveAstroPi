@@ -13,7 +13,7 @@ from mcpi.minecraft import Minecraft
 from mcpi.minecraft import Vec3
 from mcpi import block
 from mcastropi import MCAstroPi
-from astro_pi import AstroPi
+from sense_hat import AstroPi
 from time import sleep
 
 class MCInteractiveAstroPi:
